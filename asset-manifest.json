@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rate-list-kfu/static/css/main.9b2a0b9a.css",
+    "main.js": "/rate-list-kfu/static/js/main.0fabef94.js",
+    "static/js/787.74526777.chunk.js": "/rate-list-kfu/static/js/787.74526777.chunk.js",
+    "static/media/pt-mono_regular.woff": "/rate-list-kfu/static/media/pt-mono_regular.7526b38ad829540cc11e.woff",
+    "static/media/pt-mono_bold.woff": "/rate-list-kfu/static/media/pt-mono_bold.fc0e1aeb8b017f15b143.woff",
+    "static/media/pt-mono_regular.woff2": "/rate-list-kfu/static/media/pt-mono_regular.8092ab3864a11780018d.woff2",
+    "static/media/pt-mono_bold.woff2": "/rate-list-kfu/static/media/pt-mono_bold.bca8165f888d8bd6d834.woff2",
+    "index.html": "/rate-list-kfu/index.html",
+    "main.9b2a0b9a.css.map": "/rate-list-kfu/static/css/main.9b2a0b9a.css.map",
+    "main.0fabef94.js.map": "/rate-list-kfu/static/js/main.0fabef94.js.map",
+    "787.74526777.chunk.js.map": "/rate-list-kfu/static/js/787.74526777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2a0b9a.css",
+    "static/js/main.0fabef94.js"
+  ]
+}
