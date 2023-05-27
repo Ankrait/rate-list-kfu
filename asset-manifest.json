@@ -1,19 +1,27 @@
 {
   "files": {
-    "main.css": "/rate-list-kfu/static/css/main.9b2a0b9a.css",
-    "main.js": "/rate-list-kfu/static/js/main.a8ac76d1.js",
+    "main.css": "/rate-list-kfu/static/css/main.12b170ad.css",
+    "main.js": "/rate-list-kfu/static/js/main.86268741.js",
     "static/js/787.74526777.chunk.js": "/rate-list-kfu/static/js/787.74526777.chunk.js",
+    "static/media/Inter-Regular.woff": "/rate-list-kfu/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Regular.woff2": "/rate-list-kfu/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "static/media/pt-mono_regular.woff": "/rate-list-kfu/static/media/pt-mono_regular.7526b38ad829540cc11e.woff",
     "static/media/pt-mono_bold.woff": "/rate-list-kfu/static/media/pt-mono_bold.fc0e1aeb8b017f15b143.woff",
     "static/media/pt-mono_regular.woff2": "/rate-list-kfu/static/media/pt-mono_regular.8092ab3864a11780018d.woff2",
     "static/media/pt-mono_bold.woff2": "/rate-list-kfu/static/media/pt-mono_bold.bca8165f888d8bd6d834.woff2",
+    "static/media/RobotoMono-Italic.woff": "/rate-list-kfu/static/media/RobotoMono-Italic.5e90a0c86eaa6406e456.woff",
+    "static/media/RobotoMono-Medium.woff": "/rate-list-kfu/static/media/RobotoMono-Medium.38b020e2b4a7e7ebfb13.woff",
+    "static/media/RobotoMono-Regular.woff": "/rate-list-kfu/static/media/RobotoMono-Regular.453a3690b268fa3a8f53.woff",
+    "static/media/RobotoMono-Italic.woff2": "/rate-list-kfu/static/media/RobotoMono-Italic.4110d2f331e97a2e596a.woff2",
+    "static/media/RobotoMono-Medium.woff2": "/rate-list-kfu/static/media/RobotoMono-Medium.7b0a056c294c44838eeb.woff2",
+    "static/media/RobotoMono-Regular.woff2": "/rate-list-kfu/static/media/RobotoMono-Regular.e34b64f137bfbac6c59d.woff2",
     "index.html": "/rate-list-kfu/index.html",
-    "main.9b2a0b9a.css.map": "/rate-list-kfu/static/css/main.9b2a0b9a.css.map",
-    "main.a8ac76d1.js.map": "/rate-list-kfu/static/js/main.a8ac76d1.js.map",
+    "main.12b170ad.css.map": "/rate-list-kfu/static/css/main.12b170ad.css.map",
+    "main.86268741.js.map": "/rate-list-kfu/static/js/main.86268741.js.map",
     "787.74526777.chunk.js.map": "/rate-list-kfu/static/js/787.74526777.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b2a0b9a.css",
-    "static/js/main.a8ac76d1.js"
+    "static/css/main.12b170ad.css",
+    "static/js/main.86268741.js"
   ]
 }
